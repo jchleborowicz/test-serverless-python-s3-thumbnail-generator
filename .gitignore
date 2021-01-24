@@ -21,3 +21,4 @@ var/
 .serverless
 venv/
 .idea
+node_modules
